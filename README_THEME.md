@@ -161,7 +161,7 @@ Within the download you'll find the following directories and files:
     |   |   |-- EditProfileForm.vue
     |   |   |-- UserCard.vue
     |-- lang
-    |   |-- ar.js
+    |   |-- fa.js
     |   |-- en.js
     |-- layouts
     |   |-- README.md

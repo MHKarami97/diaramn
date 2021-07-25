@@ -69,17 +69,13 @@ export default {
   i18n: {
     locales: [
       {
-        code: 'en',
-        file: 'en.js'
-      },
-      {
-        code: 'ar',
-        file: 'ar.js'
+        code: 'fa',
+        file: 'fa.js'
       }
     ],
     lazy: true,
     langDir: 'lang/',
-    defaultLocale: 'en',
+    defaultLocale: 'fa',
   },
   /*
   ** Build configuration
