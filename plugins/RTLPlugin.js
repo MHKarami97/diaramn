@@ -3,7 +3,7 @@ export default {
     let app = new Vue({
       data() {
         return {
-          isRTL: false
+          isRTL: true
         };
       },
       methods: {
