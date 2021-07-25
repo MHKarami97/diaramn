@@ -27,7 +27,6 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.png' },
-      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Poppins:200,300,400,600,700,800'},
       { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css'}
     ],
     bodyAttrs: {
@@ -45,6 +44,7 @@ export default {
    ** Global CSS
    */
   css: [
+    'assets/css/vazir-font.css',
     'assets/css/demo.css',
     'assets/css/nucleo-icons.css',
     'assets/sass/black-dashboard.scss'
